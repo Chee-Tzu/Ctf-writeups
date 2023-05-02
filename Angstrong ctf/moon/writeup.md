@@ -11,3 +11,5 @@ then i made a loop to pick out the commands that had "add    rax" , "sub     rax
 Then i used sagemath to put the check in a matrix then took its transpose and then takes needed and creates a vector object, which is the solution of out equation with that we can get our oputput araray after converting this to ascii we get our flag
 
 i couldnt use z3 becuase it was slower compared to this and killed itself after running for some time
+
+actf{3verything_is_just_linear_algebr4_33e431e52e896c92}
